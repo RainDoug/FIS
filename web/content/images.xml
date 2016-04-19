@@ -1,0 +1,7 @@
+<diaporama ordre="sequential" fadeTime="10" diapoInterval="4" fontSize="10" alignement="center" echelle="true" >
+<image url="flash_pic_1.jpg"  titre="" description="" />
+<image url="flash_pic_2.jpg" titre="" description=""/>
+<image url="flash_pic_3.jpg" titre="" description=""/>
+<image url="flash_pic_4.jpg" titre="" description=""/>
+<image url="flash_pic_5.jpg" titre="" description=""/>
+</diaporama>
